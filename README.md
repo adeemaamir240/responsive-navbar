@@ -1,2 +1,2 @@
 # responsive-navbar
-responsive-navbar
+responsive-navbar in next js anad tailwind
